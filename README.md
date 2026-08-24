@@ -1,8 +1,8 @@
-# Finance-and-Capital-Markets
+# Finance and Capital Markets（金融与资本市场导论）
   
-  This note is based on a course in Khan Academy and the website is [https://www.khanacademy.org/economics-finance-domain/core-finance].It is mainly expected to let undergraduate students who have a math or physics background like me to know some basic finance knowledge and form a so-called "minimum knowledge graph" in our minds in order to learn something deeper and more difficult in finance.
+  This note is based on a course in Khan Academy and the website is (https://www.khanacademy.org/economics-finance-domain/core-finance).It is intended for undergraduate students with a mathematics or physics background who are new to finance like me.The goal is to introduce the basic concepts of finance and build a minimum mental framework that can serve as a foundation for studying more advanced topics.
 
-  The following part is the chapter.
+  The following part is the content.
 
 ## Interest and Debt
 - A
